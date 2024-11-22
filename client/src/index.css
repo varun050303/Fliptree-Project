@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom Utility for Masking */
+.mask-image {
+  mask-image: url('/wave.png'); /* Replace with your wave image path */
+  mask-repeat: no-repeat;
+  mask-size: cover;
+  -webkit-mask-image: url('/wave.png'); /* Webkit Support */
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-size: cover;
+}

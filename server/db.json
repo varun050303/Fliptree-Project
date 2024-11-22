@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "varun",
+      "lastName": "singhal",
+      "email": "varun@gmail.com",
+      "password": "$2b$10$qKFjYMBuhvdj7DmIMVuZyuJW/hcHCxQBWbD8nBXm9.LB8BSBFpR12"
+    },
+    {
+      "id": 2,
+      "firstName": "varun",
+      "lastName": "singhal",
+      "email": "varun@email.com",
+      "password": "$2b$10$JAR9hNG2pjxlgnL//CVJSue1SasNXlF8ZPgZ.Xx8hgNpNjuZbQ3eS"
+    },
+    {
+      "id": 3,
+      "firstName": "varun",
+      "lastName": "singhal",
+      "email": "varun@newmail.com",
+      "password": "$2b$10$iAIOaRxUPHw1wR013FXm7OIxFsVBnu8OFrVr679You/jWhhE1czMS"
+    },
+    {
+      "id": 4,
+      "firstName": "varun",
+      "lastName": "singhal",
+      "email": "varun@hotmail.com",
+      "password": "$2b$10$k.q7D/T9TKkq13vgM/HBXeaXD/Gssx/rMYjC7707TFFc5VOToVPa6"
+    },
+    {
+      "id": 5,
+      "firstName": "varun",
+      "lastName": "singhal",
+      "email": "varun@company.com",
+      "password": "$2b$10$vzmuUj78aLKi0zPtEf5ZCOtKuVZu9KW6N7avI2UpTgojfPtqYEmPK"
+    }
+  ],
+
+  "cart": []
+}
