@@ -1,6 +1,6 @@
 # Fliptree assignment
 
-This is a full-stack e-commerce web application where users can browse products, manage their cart, and place orders. It uses modern web technologies for scalability and performance.
+This is a full-stack e-commerce web application where users can browse products, manage their cart. It uses lowDB and perenual free api's for prototype level management of objects its not a production grade project, but still its functional for educational or project level purpose
 
 ---
 
