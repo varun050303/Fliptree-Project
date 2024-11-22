@@ -1,4 +1,4 @@
-# Project Name
+# Fliptree assignment
 
 This is a full-stack e-commerce web application where users can browse products, manage their cart, and place orders. It uses modern web technologies for scalability and performance.
 
@@ -77,7 +77,7 @@ Frontend dependencies:
 ```
 
 
-###Setup Instruction
+### Setup Instruction
 1. Clone the Repository
 git clone https://github.com/your-repo.git
 cd your-repo
@@ -88,7 +88,7 @@ npm install
 cd client
 npm install
 
-###Run Project
+### Run Project
 1. Start the Backend
 npm run server
 2. Start the frontend
