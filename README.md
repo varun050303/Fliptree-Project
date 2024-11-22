@@ -93,3 +93,7 @@ npm install
 npm run server
 2. Start the frontend
 npm run dev
+
+
+### Screenshots
+![Screenshot 2024-11-23 at 12 18 53 AM](https://github.com/user-attachments/assets/14bc3c06-1a62-4563-a694-1c6823ec3be0)
