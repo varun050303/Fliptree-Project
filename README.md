@@ -97,3 +97,5 @@ npm run dev
 
 ### Screenshots
 ![Screenshot 2024-11-23 at 12 18 53 AM](https://github.com/user-attachments/assets/14bc3c06-1a62-4563-a694-1c6823ec3be0)
+![image](https://github.com/user-attachments/assets/1b1d0aca-0de2-4bc8-aeef-2d70be488e9f)
+![image](https://github.com/user-attachments/assets/73617d6c-fd63-4498-9aab-3771442a0932)
