@@ -79,19 +79,19 @@ Frontend dependencies:
 
 ### Setup Instruction
 1. Clone the Repository
-git clone https://github.com/your-repo.git
-cd your-repo
-2.  Install Dependencies - Backend
+git clone https://github.com/varun050303/Fliptree-Project.git
+cd Fliptree-Project
+2.  a. Install Dependencies - Backend
 cd server
 npm install
-  For Frontend
+  b. For Frontend
 cd client
 npm install
 
 ### Run Project
-1. Start the Backend
+1. Start the Backend - cd server
 npm run server
-2. Start the frontend
+2. Start the frontend - cd client
 npm run dev
 
 
